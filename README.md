@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eRReReNKo
 - 👀 I’m interested in cognitive neuroscience and clinical neuropsychology
-- 🌱 I’m currently learning pyhton
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on creating cognitive experiment with exp. presentation software
 - 📫 How to reach me: errerenko@gmail.com
 
